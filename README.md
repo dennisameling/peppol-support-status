@@ -31,4 +31,4 @@ The tables below indicate per company whether they are able to send UBL-invoices
 |---|---|---|---|
 |Moneybird|✅|✅||
 |NS (Nederlandse Spoorwegen)|❌|❌|[Forum topic](https://community.ns.nl/ns-business-card-57/facturen-ontvangen-in-ubl-formaat-en-of-via-peppol-simplerinvoicing-57313)|
-|TransIP|❌|❌|TransIP Support 30-04-2019: *"Even though we love automating things, we don't have UBL or a PEPPOL-connection available yet. We're happy to put it on our roadmap, please submit a feature request for that."* --> [Feature Request](https://www.transip.nl/knowledgebase/idee/2107-facturatie-via-ubl-+-peppol/)
+|TransIP|❌|❌|TransIP Support 30-04-2019: *"Even though we love automating things, we don't have UBL or a PEPPOL-connection available yet. We're happy to put it on our roadmap, please submit a feature request for that."* --> [Feature Request](https://www.transip.nl/knowledgebase/idee/611-ubl-facturatie/)
