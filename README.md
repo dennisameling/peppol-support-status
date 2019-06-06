@@ -1,4 +1,4 @@
-# PEPPOL invoice support by large organizations
+# PEPPOL/UBL invoice support by large organizations
 Shows which large organizations are sending invoices through the [PEPPOL-network](https://peppol.eu/what-is-peppol/) for faster processing of invoices.
 
 ## What is PEPPOL?
@@ -25,6 +25,7 @@ The tables below indicate per company whether they are able to send UBL-invoices
 |---|---|---|---|
 |[Exact Online](https://www.exact.com/uk/exact-online/)|✅|⏳|Exact Support 28-04-2019: *"Sending invoices through the PEPPOL network is possible for Exact customers since Spring 2019, while receiving invoices through PEPPOL is scheduled for the end of 2019."*|
 |Microsoft (Azure/Office 365)|❌|❌|Microsoft Support 29-04-2019: *"We have an update from our accounting team that other than PDF format there is no other option in which invoices can be provided. We have forwarded the request to our operations team, but please submit a feature request as well."* --> [Feature Request](https://feedback.azure.com/forums/34192--general-feedback/suggestions/37510492-invoicing-with-ubl-peppol)|
+|Adobe|❌|❌|Adobe Support 06-06-2019: *"My apologies to you sir as we can send the invoices only in the PDF format."*|
 
 ### The Netherlands
 |Company|UBL status|PEPPOL status|Explanation|
